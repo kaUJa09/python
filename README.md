@@ -26,13 +26,10 @@
   1.Установите Python (версия 3.14.0)
 
   2.Клонируйте этот репозиторий:
-  
     git clone https://github.com/kaUJa09/python.git
 
   3.Перейдите в каталог репозитория и запустите файл:
-  
     python firstLesson.py
-    
     python secondLesson.py
 
 Что дальше:
@@ -47,11 +44,9 @@
 Требования:
 
   Python версия 3.14.0
-  
     Скачать Python (https://www.python.org/downloads/)
 
   Git, если хотите клонировать репозиторий
-  
     Скачать Git (https://git-scm.com/install/)
 
 Проверка версии Python:
