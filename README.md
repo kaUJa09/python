@@ -43,10 +43,10 @@
 
 Требования:
 
-  Python версия 3.14.0
+  Python версия 3.14.0.
     Скачать Python (https://www.python.org/downloads/)
 
-  Git, если хотите клонировать репозиторий
+  Git, если хотите клонировать репозиторий.
     Скачать Git (https://git-scm.com/install/)
 
 Проверка версии Python:
