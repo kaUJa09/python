@@ -56,11 +56,11 @@ import math as mt
 # print(people2)
 
 
-student1 = ['Tom', 'Sam', 'Jack', 'Bob', 'Tim', 'Sara']
-student2 = ['Alice', 'John', 'Eva']
-student1.clear()
-print('this is student 1',student1)
-print('this is student 2', student2)
+# student1 = ['Tom', 'Sam', 'Jack', 'Bob', 'Tim', 'Sara']
+# student2 = ['Alice', 'John', 'Eva']
+# student1.clear()
+# print('this is student 1',student1)
+# print('this is student 2', student2)
 
 # print(len(student1))
 # student1.append('Bob')
